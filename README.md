@@ -69,7 +69,7 @@
 
 
 
-![Snake animation](https://raw.githubusercontent.com/abdelhamidramadan04/abdelhamidramadan04/output/dist/github-contribution-grid-snake-dark.svg)
+https://raw.githubusercontent.com/abdelhamidramadan04/abdelhamidramadan04/output/dist/github-contribution-grid-snake-dark.svg
 
 
 
